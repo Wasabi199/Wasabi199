@@ -1,4 +1,3 @@
-<img align="center" width="100%" src="https://media-exp1.licdn.com/dms/image/D5616AQEDwX1apf6FBQ/profile-displaybackgroundimage-shrink_350_1400/0/1667661748385?e=1673481600&v=beta&t=-ubvSmq6-asjvFf0aIiioUHVkl_If1UZXTjeJ4SosW4">
 <h1 align="center">Hi 👋, I'm Ryan Villanueva</h1>
 <h3 align="center">A passionate System Developer from Philippines</h3>
 
