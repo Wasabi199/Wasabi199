@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **xxryan0909@gmail.com**
 
-- 📄 Know about my experiences [http://ryanvillanueva.me/?i=1](http://ryanvillanueva.me/?i=1)
+- 📄 Know about my experiences [https://ryanvillanueva.me](https://ryanvillanueva.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
